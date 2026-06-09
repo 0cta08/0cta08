@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0cta08!
+- 👋 Hi, I’m @0cta08
 - 👀 I’m interested in all sorts of stuff (coding, game design, music, digital art, 3d modeling, math, science, etc...)! 
 - 🌱 I’m currently learning 3d graphics!
 - 📫 Email me at 0ct0lingWithZerosForOs@gmail.com!
